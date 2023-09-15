@@ -1,0 +1,30 @@
+{
+  "juego-preguntas":{
+    "nombre":"adivina que",
+    "plataforma":"digital",
+    "poblacion":"general",
+    "preguntas":[
+      {
+        "categoria":"lenguajes de programacion",
+        "pregunta" : "¿lenguaje utilizado para Backend?",
+        "opciones" : ["JavaScript","Html","CSS","Java"],
+        "answer":"Java",
+        "explicacion":"Java es un lenguaje utilizado en Backend por su fuerte logica de programacion"
+      },
+      {
+        "categoria":"lenguajes de programacion",
+        "pregunta" : "¿lenguaje utilizado para Frontend?",
+        "opciones" : ["Java","PHP","HTML","Composer"],
+        "answer":"3",
+        "explicacion":"HTML es usado como esquema de diseño en lenguajes frontend"
+      },
+      {
+        "categoria":"lenguajes de programacion",
+        "pregunta" : "¿Cual de los siguientes no es un lenguaje de programación?",
+        "opciones" : ["Phyton","Ruby","Docker","Bootstrap"],
+        "answer":"3",
+        "explicacion":"Docker es utilizado para contener bloques de codigo no es un lenguaje"
+      }
+      ]
+  }
+}
